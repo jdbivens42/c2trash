@@ -1,6 +1,8 @@
-[submodule "switchblade"]
+[submodule "c2trash/plugins/switchblade"]
 	path = c2trash/plugins/switchblade
-	url = http://github.com/jdbivens42/switchblade
-[submodule "c2trash/plugins/mpc"]
+	url = https://github.com/jdbivens42/switchblade
+    ignore = dirty
+[submodule "c2trash/plugins/metasploit/mpc"]
 	path = c2trash/plugins/metasploit/mpc
-	url = https://github.com/g0tmi1k/mpc
+	url = https://github.com/g0tmi1k/mpc/
+    ignore = dirty
